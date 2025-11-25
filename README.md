@@ -67,7 +67,7 @@ OmniInstaller, Windows PC'niz için tüm popüler uygulamaları tek bir yerden k
 ### Yöntem 2: Kaynak Koddan Çalıştırma
 ```bash
 # Repoyu klonlayın
-git clone https://github.com/yourusername/OmniInstaller.git
+git clone https://github.com/sefflex/OmniInstaller.git
 cd OmniInstaller
 
 # Gerekli kütüphaneleri yükleyin
@@ -187,4 +187,5 @@ Bu araç, yasal olarak dağıtılan yazılımların kurulumunu kolaylaştırmak 
 ---
 
 **⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
+
 
