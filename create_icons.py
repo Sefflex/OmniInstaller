@@ -27,13 +27,7 @@ def create_icon(name, color, text):
     except:
         font = ImageFont.load_default()
         
-    # Metni ortala (Basit hesaplama)
-    # bbox = draw.textbbox((0, 0), text, font=font)
-    # w = bbox[2] - bbox[0]
-    # h = bbox[3] - bbox[1]
-    # draw.text(((64-w)/2, (64-h)/2), text, fill="white", font=font)
-    
-    # Daha basit ortalama (Pillow sürümüne göre değişebilir)
+  
     draw.text((20, 15), text, fill="white", font=font)
     
     path = os.path.join("assets", f"{name}.png")
@@ -46,3 +40,4 @@ if __name__ == "__main__":
         
     for name, (color, text) in APPS.items():
         create_icon(name, color, text)
+
