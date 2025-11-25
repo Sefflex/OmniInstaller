@@ -167,9 +167,8 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 **Rahmi Çınar Sari (Sefflex)**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Discord: Sefflex
-- Email: your.email@example.com
+- GitHub: [@seffelx](https://github.com/sefflex)
+- Discord: w.xy
 
 ---
 
@@ -188,3 +187,4 @@ Bu araç, yasal olarak dağıtılan yazılımların kurulumunu kolaylaştırmak 
 ---
 
 **⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
+
