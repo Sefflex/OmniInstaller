@@ -37,12 +37,14 @@ OmniInstaller, Windows PC'niz için tüm popüler uygulamaları tek bir yerden k
 
 ## 📸 Ekran Görüntüleri
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42e10017-d7d2-4e25-9a07-c81aa488c75c" width="600" />
+</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42e10017-d7d2-4e25-9a07-c81aa488c75c" width="230" />
-  <img src="https://github.com/user-attachments/assets/009fc4cc-2df9-46a9-895c-8a1827f7cba8" width="230" />
-  <img src="https://github.com/user-attachments/assets/c8620aa5-6e6d-4f43-9c0d-6dcb8a803720" width="230" />
-  <img src="https://github.com/user-attachments/assets/0414b37b-b9c7-4e9b-a964-ba14c97f9f2f" width="230" />
+  <img src="https://github.com/user-attachments/assets/009fc4cc-2df9-46a9-895c-8a1827f7cba8" width="200" />
+  <img src="https://github.com/user-attachments/assets/c8620aa5-6e6d-4f43-9c0d-6dcb8a803720" width="200" />
+  <img src="https://github.com/user-attachments/assets/0414b37b-b9c7-4e9b-a964-ba14c97f9f2f" width="200" />
 </p>
 
 ---
@@ -193,6 +195,7 @@ Bu araç, yasal olarak dağıtılan yazılımların kurulumunu kolaylaştırmak 
 ---
 
 **⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
+
 
 
 
